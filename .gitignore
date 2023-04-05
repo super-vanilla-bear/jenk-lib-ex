@@ -1,0 +1,7 @@
+### macOS ###
+.DS_Store/
+
+### Misc ###
+.idea/
+.vscode/
+
